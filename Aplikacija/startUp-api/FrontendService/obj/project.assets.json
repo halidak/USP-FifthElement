@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\halid\\OneDrive\\Radna površina\\faks\\lll\\SI\\Projekat backend\\startUp-api\\FrontendService\\FrontendService.csproj",
+      "projectUniqueName": "C:\\Users\\halid\\OneDrive\\Radna površina\\usp2\\USP-FifthElement\\Aplikacija\\startUp-api\\FrontendService\\FrontendService.csproj",
       "projectName": "FrontendService",
-      "projectPath": "C:\\Users\\halid\\OneDrive\\Radna površina\\faks\\lll\\SI\\Projekat backend\\startUp-api\\FrontendService\\FrontendService.csproj",
+      "projectPath": "C:\\Users\\halid\\OneDrive\\Radna površina\\usp2\\USP-FifthElement\\Aplikacija\\startUp-api\\FrontendService\\FrontendService.csproj",
       "packagesPath": "C:\\Users\\halid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\halid\\OneDrive\\Radna površina\\faks\\lll\\SI\\Projekat backend\\startUp-api\\FrontendService\\obj\\",
+      "outputPath": "C:\\Users\\halid\\OneDrive\\Radna površina\\usp2\\USP-FifthElement\\Aplikacija\\startUp-api\\FrontendService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\halid\\AppData\\Roaming\\NuGet\\NuGet.Config",

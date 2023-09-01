@@ -4024,11 +4024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\halid\\OneDrive\\Radna površina\\faks\\lll\\SI\\Projekat backend\\startUp-api\\startUp-api\\startUp-api.csproj",
+      "projectUniqueName": "C:\\Users\\halid\\OneDrive\\Radna površina\\usp2\\USP-FifthElement\\Aplikacija\\startUp-api\\startUp-api\\startUp-api.csproj",
       "projectName": "startUp-api",
-      "projectPath": "C:\\Users\\halid\\OneDrive\\Radna površina\\faks\\lll\\SI\\Projekat backend\\startUp-api\\startUp-api\\startUp-api.csproj",
+      "projectPath": "C:\\Users\\halid\\OneDrive\\Radna površina\\usp2\\USP-FifthElement\\Aplikacija\\startUp-api\\startUp-api\\startUp-api.csproj",
       "packagesPath": "C:\\Users\\halid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\halid\\OneDrive\\Radna površina\\faks\\lll\\SI\\Projekat backend\\startUp-api\\startUp-api\\obj\\",
+      "outputPath": "C:\\Users\\halid\\OneDrive\\Radna površina\\usp2\\USP-FifthElement\\Aplikacija\\startUp-api\\startUp-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\halid\\AppData\\Roaming\\NuGet\\NuGet.Config",

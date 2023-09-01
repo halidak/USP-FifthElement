@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2raqfT6wd6Y/313WQEZi2o/EY57HeNkENv3UV5pfgvECjC7JdL5aUfwfujh84dUNPWXtTBopFBi4t5QozhA8uQ==",
+  "dgSpecHash": "WjNUukuarHajuFwyf90FuuVIVIkuFqIDBr25s9/SAwVNqnAvhg9OhCsyUaCNi2XjXisD6c136HLKKIxTHa3D2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\halid\\OneDrive\\Radna površina\\faks\\lll\\SI\\Projekat backend\\startUp-api\\FrontendService\\FrontendService.csproj",
+  "projectFilePath": "C:\\Users\\halid\\OneDrive\\Radna površina\\usp2\\USP-FifthElement\\Aplikacija\\startUp-api\\FrontendService\\FrontendService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\halid\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\halid\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

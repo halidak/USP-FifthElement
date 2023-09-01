@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bsMEfPO0hsm3DKc9ClMiVKTMHcMJdI4P3WRgvq0liqvQ8oulL/k9RvO6BLEHpPNTDvKZPn6qwKKKmASMNKiVrQ==",
+  "dgSpecHash": "YQb4n48/OQzk4UiSeLpExH2IuV9hXmojrJ6FpR7XXfEg4c8LX2ySlQWCjAhsmPPh5iq4n0BwA88dYuYK4gG8NQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\halid\\OneDrive\\Radna površina\\faks\\lll\\SI\\Projekat backend\\startUp-api\\startUp-api\\startUp-api.csproj",
+  "projectFilePath": "C:\\Users\\halid\\OneDrive\\Radna površina\\usp2\\USP-FifthElement\\Aplikacija\\startUp-api\\startUp-api\\startUp-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\halid\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\halid\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

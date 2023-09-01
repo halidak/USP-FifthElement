@@ -1,0 +1,10 @@
+.about  .img{
+    width: 100%;
+    height: 550px;
+  }
+  @media screen and (max-width: 768px) {
+    
+    .about .img {
+      height: 200px;
+    }
+  }

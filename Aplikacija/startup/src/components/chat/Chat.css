@@ -1,0 +1,122 @@
+.chatcard{
+    display: grid;
+    justify-content: right;
+    margin: 10px;
+}
+
+.chat{
+    /* display: grid;
+    justify-content: right; */
+    position: absolute;
+    margin-top: -280px;
+    left: 82%;
+}
+
+.messages {
+    background-color: #aabcec;
+    padding: 5px;
+    height: 270px;
+    overflow: scroll;
+}
+
+.messageFrom{
+    flex-direction: row-reverse;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.message {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.input{
+    display: flex;
+}
+
+.input-button {
+    background-color: #7b96ec;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    border-radius: 0%;
+  }
+
+.messageInfo {
+      display: flex;
+      flex-direction: column;
+      color: gray;
+      font-weight: 300;
+}
+.sendM {
+    background-color: transparent;
+    border:  none;
+    border-radius: 0%;
+    color: black;
+    outline: none;
+}
+
+.messageContent   p {
+        background-color: white;
+        padding: 10px 20px;
+        border-radius: 0px 10px 10px 10px;
+        max-width: max-content;
+}
+.messageContentFrom   p {
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 10px 0px 10px 10px;
+    max-width: max-content;
+}
+
+.senderFrom{
+    text-align: right;
+}
+
+.cartica{
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+.userChat {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+    .userChat:hover {
+      background-color: #cacaca;
+    }
+
+.user-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.userChatInfo p{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+
+.all-chats{
+    position: absolute;
+    margin-top: -300px;
+    left: 82%;
+    background-color: white;
+    height: 300px;
+    width: 250px;
+}
+@media screen and (max-width: 1808px) {
+    .chat{
+        margin-top: -250px;
+        left: 80%;
+    }
+}

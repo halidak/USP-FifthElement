@@ -1,0 +1,41 @@
+.noticeDetail{
+    width: 60%;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    padding: 5rem 10rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.notice-button{
+    padding:  0.4rem 1.5rem;
+    border: none;
+    border-radius: 3rem;
+    cursor: pointer;
+    height: 50px;
+    width: 150px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.notice-button:hover{
+    background-color: transparent;
+    border: 1px solid #2682d8;
+    transition:  0.5s;
+    color: black;
+}
+
+.paragraf{
+    text-align: justify;
+}
+
+@media screen and (max-width: 1808px) {
+    .noticeDetail{
+        margin-left: 300px;
+    }
+    .notice-button{
+        margin-left: 200px;
+    }
+}

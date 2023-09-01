@@ -1,0 +1,33 @@
+.img-div img{
+    width: 100%;
+    height: 500px;
+}
+
+.img-div{
+    position: relative;
+}
+
+.div-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.header-p{
+    color: white;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 500px){
+    .img-div img {
+      width: 100%;
+      height: 364px;
+  }
+  }
